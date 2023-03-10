@@ -1,0 +1,142 @@
+normativedatatypes:
+- Attachment
+- Attachment
+- Coding
+- Coding
+- CodeableConcept
+- CodeableConcept
+- Quantity
+- Quantity
+- Money
+- Money
+- Range
+- Range
+- Ratio
+- Ratio
+- Period
+- Period
+- Identifier
+- Identifier
+- HumanName
+- HumanName
+- Address
+- Address
+- ContactPoint
+- ContactPoint
+- Timing
+- Timing
+- Annotation
+- Annotation
+normativesindocumentation:
+- Conformance Rules
+- References between Resources
+- Narrative
+- Extensibility
+- Terminologies
+- FHIRPath
+- Change Management & Versioning
+- RESTful API (HTTP)
+- Search
+- Operations
+- 'Resource Definitions:'
+- 'Resource Formats:'
+- UML Definition
+- XML Format
+- JSON Format
+- ND-JSON Format
+- Datatypes
+- Metadata Types
+- ElementDefinition
+- Type Framework
+- Resource
+- DomainResource
+- CanonicalResource
+- MetadataResource
+- Profiling FHIR
+normativesinresourcelist:
+- CapabilityStatement
+- StructureDefinition
+- OperationDefinition
+- CodeSystem
+- ValueSet
+- Binary
+- Bundle
+- OperationOutcome
+- Parameters
+- Patient
+- Observation
+- Binary
+- Bundle
+- CapabilityStatement
+- CodeSystem
+- Observation
+- OperationDefinition
+- OperationOutcome
+- Parameters
+- Patient
+- StructureDefinition
+- ValueSet
+- Observation
+- Patient
+- Binary
+- Bundle
+- OperationOutcome
+- Parameters
+- ValueSet
+- StructureDefinition
+- CapabilityStatement
+- OperationDefinition
+- Binary
+- Bundle
+- CanonicalResource
+- CapabilityStatement
+- CodeSystem
+- DomainResource
+- MetadataResource
+- Observation
+- OperationDefinition
+- OperationOutcome
+- Parameters
+- Patient
+- Resource
+- StructureDefinition
+- ValueSet
+- CapabilityStatement
+- CodeSystem
+- OperationDefinition
+- StructureDefinition
+- ValueSet
+- Observation
+- Patient
+- Binary
+- Bundle
+- Binary
+- Bundle
+- CanonicalResource
+- CapabilityStatement
+- CodeSystem
+- DomainResource
+- MetadataResource
+- Observation
+- OperationDefinition
+- OperationOutcome
+- Parameters
+- Patient
+- Resource
+- StructureDefinition
+- ValueSet
+- Binary
+- Bundle
+- CanonicalResource
+- CapabilityStatement
+- DomainResource
+- MetadataResource
+- OperationDefinition
+- OperationOutcome
+- Parameters
+- Resource
+- StructureDefinition
+- Observation
+- Patient
+- CodeSystem
+- ValueSet

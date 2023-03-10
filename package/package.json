@@ -1,0 +1,19 @@
+{
+  "name" : "hl7.fhir.r5.core",
+  "version" : "5.0.0-draft-final",
+  "tools-version" : 3,
+  "type" : "Core",
+  "date" : "20230301230357",
+  "license" : "CC0-1.0",
+  "canonical" : "http://hl7.org/fhir",
+  "url" : "http://hl7.org/fhir/5.0.0-draft-final/",
+  "title" : "FHIR Core package",
+  "description" : "FHIR Core package - the NPM package that contains all the definitions for the base FHIR specification (built Wed, Mar 1, 2023 23:03+1100+11:00)",
+  "fhirVersions" : ["5.0.0-draft-final"],
+  "author" : "HL7 Inc",
+  "homepage" : "http://hl7.org/fhir/5.0.0-draft-final/",
+  "directories" : {
+    "lib" : "package",
+    "example" : "example"
+  }
+}

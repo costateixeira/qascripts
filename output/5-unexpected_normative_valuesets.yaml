@@ -1,0 +1,13 @@
+- all-resource-types
+- capability-format-type
+- conceptmap-attribute-type
+- conceptmap-property-type
+- data-types
+- definition-resource-types
+- event-resource-types
+- fhirpath-types
+- languages
+- participant-resource-types
+- request-resource-types
+- subscription-types
+- version-independent-resource-types
